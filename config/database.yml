@@ -16,7 +16,6 @@ default: &default
   host: db
   username: root
   password: password
-  host: localhost
 
 development:
   <<: *default
